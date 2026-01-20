@@ -1,3 +1,5 @@
+![Architecture Diagram](./architecture.png)
+
 # Scalable Web Application using EC2, Auto Scaling & ALB
 
 This project demonstrates how to build a highly available and scalable web application on AWS.
